@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day7-part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cooler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Cooler.cs",
+              "RelativeDocumentMoniker": "Day7-part2\\Cooler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Cooler.cs",
+              "RelativeToolTip": "Day7-part2\\Cooler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:24:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Program.cs",
+              "RelativeDocumentMoniker": "Day7-part2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Program.cs",
+              "RelativeToolTip": "Day7-part2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:22:19.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heater.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Heater.cs",
+              "RelativeDocumentMoniker": "Day7-part2\\Heater.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Heater.cs",
+              "RelativeToolTip": "Day7-part2\\Heater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:24:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Thermostat.cs",
+              "RelativeDocumentMoniker": "Day7-part2\\Thermostat.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Thermostat.cs",
+              "RelativeToolTip": "Day7-part2\\Thermostat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:23:49.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

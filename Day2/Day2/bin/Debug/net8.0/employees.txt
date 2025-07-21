@@ -1,0 +1,2 @@
+ID: 1, Name: ali, Salary: 20000, Age: 22
+ID: 2, Name: ame, Salary: 3000, Age: 33

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Day7\Day7\bin\Debug\net8.0\Day7.exe
+C:\Users\user\source\repos\Day7\Day7\bin\Debug\net8.0\Day7.deps.json
+C:\Users\user\source\repos\Day7\Day7\bin\Debug\net8.0\Day7.runtimeconfig.json
+C:\Users\user\source\repos\Day7\Day7\bin\Debug\net8.0\Day7.dll
+C:\Users\user\source\repos\Day7\Day7\bin\Debug\net8.0\Day7.pdb
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.AssemblyInfo.cs
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.dll
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\refint\Day7.dll
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.pdb
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\Day7.genruntimeconfig.cache
+C:\Users\user\source\repos\Day7\Day7\obj\Debug\net8.0\ref\Day7.dll

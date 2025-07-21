@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZjxmswF5V8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\ITI-Day4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

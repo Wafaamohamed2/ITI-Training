@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ITI-Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|c:\\users\\user\\source\\repos\\iti-day4\\iti-day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|solutionrelative:iti-day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|c:\\users\\user\\source\\repos\\iti-day4\\iti-day4\\rectang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|solutionrelative:iti-day4\\rectang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|c:\\users\\user\\source\\repos\\iti-day4\\iti-day4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|solutionrelative:iti-day4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|c:\\users\\user\\source\\repos\\iti-day4\\iti-day4\\shap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|solutionrelative:iti-day4\\shap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|c:\\users\\user\\source\\repos\\iti-day4\\iti-day4\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|solutionrelative:iti-day4\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|c:\\users\\user\\source\\repos\\iti-day4\\iti-day4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C31A7-2BE8-4926-985A-28B9FE3ACB39}|ITI-Day4\\ITI-Day4.csproj|solutionrelative:iti-day4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectang.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Rectang.cs",
+              "RelativeDocumentMoniker": "ITI-Day4\\Rectang.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Rectang.cs",
+              "RelativeToolTip": "ITI-Day4\\Rectang.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:58:05.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Program.cs",
+              "RelativeDocumentMoniker": "ITI-Day4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Program.cs",
+              "RelativeToolTip": "ITI-Day4\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:36:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Circle.cs",
+              "RelativeDocumentMoniker": "ITI-Day4\\Circle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Circle.cs",
+              "RelativeToolTip": "ITI-Day4\\Circle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:53:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Line.cs",
+              "RelativeDocumentMoniker": "ITI-Day4\\Line.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Line.cs",
+              "RelativeToolTip": "ITI-Day4\\Line.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:41:29.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shap.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Shap.cs",
+              "RelativeDocumentMoniker": "ITI-Day4\\Shap.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Shap.cs",
+              "RelativeToolTip": "ITI-Day4\\Shap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:42:30.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Point.cs",
+              "RelativeDocumentMoniker": "ITI-Day4\\Point.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Day4\\ITI-Day4\\Point.cs",
+              "RelativeToolTip": "ITI-Day4\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:38:22.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
