@@ -1,9 +1,9 @@
-# ITI Training Projects :
+# ITI Training Tasks :
      This repository contains a series of hands-on C# projects and exercises developed during my training at the Information Technology Institute (ITI).
      Each folder focuses on a specific topic or concept, showcasing practical implementations and code structure.
 
      
-## Project Details:
+## Tasks Details:
 
   ###  **Day1**:
        Purpose:- Learn C# syntax basics and console applications.
