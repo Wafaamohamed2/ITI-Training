@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day3\\",
+  "WorkspaceRootPath": "F:\\ITI-Tranning\\Day3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38558755-934F-4E16-A55E-E6BA2C671212}|Day3\\Day3.csproj|c:\\users\\user\\source\\repos\\day3\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38558755-934F-4E16-A55E-E6BA2C671212}|Day3\\Day3.csproj|f:\\iti-tranning\\day3\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38558755-934F-4E16-A55E-E6BA2C671212}|Day3\\Day3.csproj|solutionrelative:day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38558755-934F-4E16-A55E-E6BA2C671212}|Day3\\Day3.csproj|c:\\users\\user\\source\\repos\\day3\\day3\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38558755-934F-4E16-A55E-E6BA2C671212}|Day3\\Day3.csproj|f:\\iti-tranning\\day3\\day3\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38558755-934F-4E16-A55E-E6BA2C671212}|Day3\\Day3.csproj|solutionrelative:day3\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 253,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,34 +53,33 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Stack.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day3\\Day3\\Stack.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day3\\Day3\\Stack.cs",
               "RelativeDocumentMoniker": "Day3\\Stack.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day3\\Day3\\Stack.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day3\\Day3\\Stack.cs",
               "RelativeToolTip": "Day3\\Stack.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAmwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:36:03.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T11:36:03.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day3\\Day3\\Program.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day3\\Day3\\Program.cs",
               "RelativeDocumentMoniker": "Day3\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day3\\Day3\\Program.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day3\\Day3\\Program.cs",
               "RelativeToolTip": "Day3\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB0AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T11:35:39.257Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },

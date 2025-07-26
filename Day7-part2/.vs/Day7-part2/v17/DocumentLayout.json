@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day7-part2\\",
+  "WorkspaceRootPath": "F:\\ITI-Tranning\\Day7-part2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|f:\\iti-tranning\\day7-part2\\day7-part2\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|f:\\iti-tranning\\day7-part2\\day7-part2\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|f:\\iti-tranning\\day7-part2\\day7-part2\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|c:\\users\\user\\source\\repos\\day7-part2\\day7-part2\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|f:\\iti-tranning\\day7-part2\\day7-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AEBF6-7EA4-49DD-A537-95C1A92CA18A}|Day7-part2\\Day7-part2.csproj|solutionrelative:day7-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 14,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,57 +61,57 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cooler.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Cooler.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Cooler.cs",
               "RelativeDocumentMoniker": "Day7-part2\\Cooler.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Cooler.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Cooler.cs",
               "RelativeToolTip": "Day7-part2\\Cooler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T11:24:26.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Program.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Program.cs",
               "RelativeDocumentMoniker": "Day7-part2\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Program.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Program.cs",
               "RelativeToolTip": "Day7-part2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T11:22:19.066Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Heater.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Heater.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Heater.cs",
               "RelativeDocumentMoniker": "Day7-part2\\Heater.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Heater.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Heater.cs",
               "RelativeToolTip": "Day7-part2\\Heater.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T11:24:06.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Thermostat.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Thermostat.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Thermostat.cs",
               "RelativeDocumentMoniker": "Day7-part2\\Thermostat.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day7-part2\\Day7-part2\\Thermostat.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day7-part2\\Day7-part2\\Thermostat.cs",
               "RelativeToolTip": "Day7-part2\\Thermostat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T11:23:49.267Z",
               "EditorCaption": ""
