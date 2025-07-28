@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day-9\\",
+  "WorkspaceRootPath": "F:\\ITI-Tranning\\Day-9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|c:\\users\\user\\source\\repos\\day-9\\day-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|c:\\users\\user\\source\\repos\\day-9\\day-9\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|c:\\users\\user\\source\\repos\\day-9\\day-9\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|f:\\iti-tranning\\day-9\\day-9\\migrations\\20250726141930_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED15BB-0BFA-476A-8F31-C57534DD76EE}|Day-9\\Day-9.csproj|solutionrelative:day-9\\migrations\\20250726141930_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +37,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 260,
+          "DockedWidth": 262,
           "SelectedChildIndex": 9,
           "Children": [
             {
@@ -64,45 +80,92 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day-9\\Day-9\\Program.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Program.cs",
               "RelativeDocumentMoniker": "Day-9\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day-9\\Day-9\\Program.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Program.cs",
               "RelativeToolTip": "Day-9\\Program.cs",
-              "ViewState": "AQIAALIAAAAAAAAAAAAkwLwAAAAAAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwJgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T03:04:14.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "Day-9\\Models\\EmployeeProject.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "Day-9\\Models\\EmployeeProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:47:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Day-9\\Models\\Project.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\Project.cs",
+              "RelativeToolTip": "Day-9\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:44:28.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day-9\\Models\\Employee.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\Employee.cs",
+              "RelativeToolTip": "Day-9\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:30:29.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day-9\\Models\\Department.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\Department.cs",
+              "RelativeToolTip": "Day-9\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:30:17.393Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CompanyContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day-9\\Day-9\\Models\\CompanyContext.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\CompanyContext.cs",
               "RelativeDocumentMoniker": "Day-9\\Models\\CompanyContext.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day-9\\Day-9\\Models\\CompanyContext.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Models\\CompanyContext.cs",
               "RelativeToolTip": "Day-9\\Models\\CompanyContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAACGAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T03:11:29.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day-9\\Day-9\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "Day-9\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Day-9\\Day-9\\Models\\Project.cs",
-              "RelativeToolTip": "Day-9\\Models\\Project.cs",
+              "DocumentIndex": 6,
+              "Title": "20250726141930_InitialCreate.cs",
+              "DocumentMoniker": "F:\\ITI-Tranning\\Day-9\\Day-9\\Migrations\\20250726141930_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Day-9\\Migrations\\20250726141930_InitialCreate.cs",
+              "ToolTip": "F:\\ITI-Tranning\\Day-9\\Day-9\\Migrations\\20250726141930_InitialCreate.cs",
+              "RelativeToolTip": "Day-9\\Migrations\\20250726141930_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:44:28.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T14:19:30.93Z"
             }
           ]
         },
         {
-          "DockedWidth": 13,
+          "DockedWidth": 11,
           "SelectedChildIndex": -1,
           "Children": [
             {
