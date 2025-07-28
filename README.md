@@ -16,6 +16,10 @@
   ###  **Day3**:
           Purpose:- Dive deeper into OOP.
           Key concepts:- Inheritance hierarchies, interfaces, method overriding.
+          
+  ###  **ClassLibrary1**:
+         Purpose:- Provide a shared library of common utilities.
+         Usage:- Imported into other projects (e.g., Day2...) for reuse        
 
   ###  **ITI-Day4**:
           Purpose:- Handle runtime errors gracefully.
@@ -33,10 +37,14 @@
                       2- `Heater` and `Cooler` classes respond based on threshold. "Subscriber" 
                       3- Demonstrates loose coupling and real-world event usage.
 
-  ###  **ClassLibrary1**:
-         Purpose:- Provide a shared library of common utilities.
-         Usage:- Imported into other projects (e.g., Day2...) for reuse
-                    
+  ###  **Day9**:
+         Purpose:- Learn LINQ for data querying in C#.
+         Key concepts:- LINQ syntax, query expressions, filtering, and grouping data.
+
+  ###   **Day10**:
+         Purpose:- Implement file input/output operations in C#.
+         Key concepts:- Reading/writing files, StreamReader/StreamWriter, handling file exceptions.
+               
 
 ##  Learning Objectives:
        - Understand fundamental and advanced OOP principles.
